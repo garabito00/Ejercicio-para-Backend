@@ -1,0 +1,15 @@
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\bin\Debug\net5.0\Directorio.Domain.deps.json
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\bin\Debug\net5.0\Directorio.Domain.runtimeconfig.json
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\bin\Debug\net5.0\Directorio.Domain.runtimeconfig.dev.json
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\bin\Debug\net5.0\Directorio.Domain.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\bin\Debug\net5.0\ref\Directorio.Domain.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\bin\Debug\net5.0\Directorio.Domain.pdb
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.csproj.AssemblyReference.cache
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.AssemblyInfoInputs.cache
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.AssemblyInfo.cs
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.csproj.CoreCompileInputs.cache
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\ref\Directorio.Domain.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.pdb
+D:\USERDATA\miguel.garabito\source\repos\Directorio.Domain\obj\Debug\net5.0\Directorio.Domain.genruntimeconfig.cache

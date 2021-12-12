@@ -1,0 +1,17 @@
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\Directorio.AppService.deps.json
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\Directorio.AppService.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\ref\Directorio.AppService.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\Directorio.AppService.pdb
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\Directorio.Data.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\Directorio.Domain.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\Directorio.Data.pdb
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\bin\Debug\net5.0\Directorio.Domain.pdb
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.csproj.AssemblyReference.cache
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.AssemblyInfoInputs.cache
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.AssemblyInfo.cs
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.csproj.CoreCompileInputs.cache
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.csproj.CopyComplete
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\ref\Directorio.AppService.dll
+D:\USERDATA\miguel.garabito\source\repos\Directorio.AppService\obj\Debug\net5.0\Directorio.AppService.pdb
